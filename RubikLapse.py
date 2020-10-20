@@ -104,7 +104,7 @@ class RubikLapse(Script):
                     "label": "PAUSE TIMING 2",
                     "description": "Combien de temps faut t-il attendre sans bouger à la position 2",
                     "type": "int",
-                    "default_value": 1000,
+                    "default_value": 3000,
                     "minimum_value": 0,
                     "unit": "ms",
                     "enabled": "park_print_head2"
