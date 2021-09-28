@@ -1,4 +1,5 @@
-# Created by Wayne Porter and modify by Rubikshow
+# Created by Wayne Porter and modify by @baptistereb (on github)
+# Cura plugin allowing to make 3d printing timelpase
 
 from ..Script import Script
 
